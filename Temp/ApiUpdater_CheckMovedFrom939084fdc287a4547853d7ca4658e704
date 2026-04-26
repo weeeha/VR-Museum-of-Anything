@@ -1,0 +1,128 @@
+5442569296
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+3
+22
+UnityEngine.XR.ARFoundation
+0
+0
+5442569512
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+3
+22
+UnityEngine.XR.ARFoundation
+0
+0
+5442569728
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+4
+22
+UnityEngine.XR.ARSubsystems
+0
+0
+5442569944
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+10
+26
+ARPlaneMeshVisualizer
+0
+0
+5442570160
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+10
+79
+ARPlane
+0
+0
+5442570376
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+12
+26
+ARAnchorManager
+0
+0
+5442570592
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+13
+26
+ARRaycastManager
+0
+0
+5442570808
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+14
+26
+ARPlaneManager
+0
+0
+5442571024
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+43
+34
+ARPlaneBoundaryChangedEventArgs
+0
+0
+5442571240
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+86
+17
+ARRaycastHit
+0
+0
+5442571456
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+88
+10
+ARAnchor
+0
+0
+5442571672
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+105
+5
+ARPlaneMeshVisualizer
+0
+0
+5442571888
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+90
+5
+ARRaycastManager
+0
+0
+5442572104
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs
+107
+5
+ARPlane
+0
+0
+5442572320
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+92
+5
+ARAnchorManager
+0
+0
+5442572536
+7136607203321344161
+/Users/nickv/VR Museum Concept/Assets/ExampleAssets/Scripts/AnchorCreator.cs
+94
+5
+ARPlaneManager
+0
+0

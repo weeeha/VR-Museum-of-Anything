@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "com.unity.learn.iet-framework": "1.2.3",
+    "com.unity.xr.arcore": "4.0.12",
+    "com.unity.xr.arfoundation": "4.0.12",
+    "com.unity.xr.arkit": "4.0.12",
+    "com.unity.xr.magicleap": "6.2.2",
+    "com.unity.xr.management": "4.0.1",
+    "com.unity.xr.windowsmr": "4.4.1",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  }
+}
